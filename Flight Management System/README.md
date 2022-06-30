@@ -11,4 +11,4 @@ It is a system for the management of flights and pilots.
 - Airports have pilots and each pilot has a level of experience.
 - An airplane type may need a certain number of pilots.
 
-![Flight Management System UML Diagram](FlightMAnagementSystemUMLDiagram.jpg)
+![Flight Management System UML Diagram](FlightManagementSystemUMLDiagram.jpg)
