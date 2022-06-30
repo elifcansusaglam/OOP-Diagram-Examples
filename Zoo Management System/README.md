@@ -6,7 +6,7 @@ Animals are characterized by species in groups such as:
 
 - Equidae (horses, zebras, donkeys, etc.),
 - Felines (tigers, lions, etc.),
-- Rodents (mice, beavers, etc.)
+- Rodents (rats, beavers, etc.)
 
 Much of the information stored about animals is the same for all groupings.
 These are: species, name, weight, age, etc.
