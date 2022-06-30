@@ -1,4 +1,4 @@
-## University Management System 
+# University Management System 
 
 - There are classrooms, offices and departments belonging to the university.
 - There are offices belonging to the departments.
