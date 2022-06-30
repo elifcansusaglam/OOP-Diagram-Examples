@@ -5,4 +5,4 @@
 - There are employees belonging to the university. These employees can be professors or officer.
 - Every employee works in an office.
 
-[University Management System UML Class Diagram](UniversityManagementSystem_UMLDiagram.jpg)
+![University Management System UML Class Diagram](UniversityManagementSystem_UMLDiagram.jpg)
