@@ -10,4 +10,4 @@ A person calls an elevator by pressing the appropriate call button (up or down).
 
 The simulator uses a "clock" to simulate real time lapse and timestamp and log events that occur in the simulation. A random number generator is used by the simulator to generate passengers and determine the departure and arrival floors for each passenger.
 
-![Elevator Simulator](https://cloud.smartdraw.com/share.aspx/?pubDocShare=EE99EC7E816416B8177A796DD1FB55FE0E7)
+![Elevator Simulator](ElevatorSimulator.png)
