@@ -1,3 +1,3 @@
 # UML Diagram Examples
 
-It is project that contains some uml class diagram examples to better understand object oriented programming.
+It a is project that contains some UML Class Diagram examples to better understand the Object Oriented Programming.
